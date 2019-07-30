@@ -1,0 +1,43 @@
+.topnav{
+    background-size: cover;
+    background-image: url(../img/blackback.jpg);
+    font-family: 'Pacifico', cursive;
+    padding: 20px;
+    font-size: 32px;
+    font-style: italic;
+    
+}
+#text{
+    color:rgb(251, 215, 10);
+    size: 12px;
+}
+
+#title{
+    
+    font-family: 'Pacifico', cursive;
+    background-size: cover;
+    text-align: center;
+   
+    color: rgb(253, 253, 253);
+    text-decoration: wavy;
+}
+body{
+    background-image: url(../img/6429f4a9c63f483c4c305f6a0b7422fb.jpg   );
+    background-size: cover;
+    text-align: center;
+    margin:0;
+}
+.jumbotron{
+    background-color: antiquewhite;
+    width: 900px;
+   text-align: center;
+   position: relative;
+   left: 170px;
+    top: 40px;
+    font-family: 'Pacifico', cursive;
+}
+
+
+  
+ 
+ 
