@@ -30,6 +30,7 @@ body{
 .jumbotron{
     background-color: rgb(204, 155, 92);
     width: 900px;
+    height: 900px;
    text-align: center;
    position: relative;
    left: 170px;
