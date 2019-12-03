@@ -1,5 +1,5 @@
 .topnav{
-    background-size: cover;
+    /* background-size: cover; */
     background-image: url(../img/blackback.jpg);
     font-family: 'Pacifico', cursive;
     padding: 20px;
@@ -36,4 +36,13 @@ body{
    left: 170px;
     top: 40px;
     font-family: 'Pacifico', cursive;
+}
+#Contact{
+    background-color: rgb(97, 94, 72);
+    width: 900px;
+    height: 950px;
+    text-align: center;
+    position: relative;
+    left: 170px;
+    top: 40px;
 }
